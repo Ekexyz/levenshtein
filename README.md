@@ -1,2 +1,2 @@
 # levenshtein
-Sample repository with custom python classes
+Sample repository with custom python classes.
